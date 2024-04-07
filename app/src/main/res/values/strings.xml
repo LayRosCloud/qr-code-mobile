@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ваш QR-код</string>
+    <string name="title_read_qr">Сканирование</string>
+    <string name="title_generator_qr">Генерация</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigate_site">ПЕРЕЙТИ НА САЙТ</string>
+    <string name="copy">СКОПИРОВАТЬ</string>
+    <string name="qr_code_scanning_title_2">ОТСКАНИРОВАН</string>
+    <string name="qr_code_scanning_title_1">QR-КОД</string>
+    <string name="scanner">СКАНИРОВАНИЕ</string>
+    <string name="enter_your_text">введите свой текст...</string>
+    <string name="generate">сгенерировать</string>
+    <string name="save">сохранить</string>
+</resources>
